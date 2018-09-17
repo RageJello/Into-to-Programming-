@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\bin\Debug\Weekly Time Sheet.exe.config
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\bin\Debug\Weekly Time Sheet.exe
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\bin\Debug\Weekly Time Sheet.pdb
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly Time Sheet.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly_Time_Sheet.Properties.Resources.resources
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly Time Sheet.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly Time Sheet.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly Time Sheet.exe
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly Time Sheet.pdb
+C:\Users\ragej\source\repos\Weekly Time Sheet\Weekly Time Sheet\obj\Debug\Weekly_Time_Sheet.weeklyTimeSheet.resources
