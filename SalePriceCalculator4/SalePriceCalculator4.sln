@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalePriceCalculator4", "SalePriceCalculator4\SalePriceCalculator4.csproj", "{45BAB95F-4E8B-4A5B-9224-00073FD94830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BAB95F-4E8B-4A5B-9224-00073FD94830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BAB95F-4E8B-4A5B-9224-00073FD94830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BAB95F-4E8B-4A5B-9224-00073FD94830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BAB95F-4E8B-4A5B-9224-00073FD94830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB77E2F-9F7B-446A-8C21-8A65B692B39E}
+	EndGlobalSection
+EndGlobal

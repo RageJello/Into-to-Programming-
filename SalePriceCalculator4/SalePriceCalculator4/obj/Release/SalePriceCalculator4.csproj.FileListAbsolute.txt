@@ -1,0 +1,9 @@
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\bin\Release\SalePriceCalculator4.exe.config
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\bin\Release\SalePriceCalculator4.exe
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\bin\Release\SalePriceCalculator4.pdb
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\obj\Release\SalePriceCalculator4.Form1.resources
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\obj\Release\SalePriceCalculator4.Properties.Resources.resources
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\obj\Release\SalePriceCalculator4.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\obj\Release\SalePriceCalculator4.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\obj\Release\SalePriceCalculator4.exe
+C:\Users\ragej\source\repos\SalePriceCalculator4\SalePriceCalculator4\obj\Release\SalePriceCalculator4.pdb
