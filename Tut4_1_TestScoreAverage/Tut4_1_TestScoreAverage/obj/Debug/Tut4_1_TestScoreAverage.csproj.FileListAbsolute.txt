@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\bin\Debug\Tut4_1_TestScoreAverage.exe.config
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\bin\Debug\Tut4_1_TestScoreAverage.exe
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\bin\Debug\Tut4_1_TestScoreAverage.pdb
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.Form1.resources
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.Properties.Resources.resources
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.exe
+C:\Users\ragej\source\repos\Tut4_1_TestScoreAverage\Tut4_1_TestScoreAverage\obj\Debug\Tut4_1_TestScoreAverage.pdb
