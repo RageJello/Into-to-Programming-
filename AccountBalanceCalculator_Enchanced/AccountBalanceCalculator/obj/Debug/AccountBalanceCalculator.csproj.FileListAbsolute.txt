@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\AccountBalanceCalculator.exe.config
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\AccountBalanceCalculator.exe
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\AccountBalanceCalculator.pdb
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.Properties.Resources.resources
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.exe
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.pdb
+C:\Users\ragej\source\repos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\AccountBalanceCalculator.EndingBalance.resources
