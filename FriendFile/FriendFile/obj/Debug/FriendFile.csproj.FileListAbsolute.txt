@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\FriendFile\FriendFile\bin\Debug\FriendFile.exe.config
+C:\Users\ragej\source\repos\FriendFile\FriendFile\bin\Debug\FriendFile.exe
+C:\Users\ragej\source\repos\FriendFile\FriendFile\bin\Debug\FriendFile.pdb
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.Form1.resources
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.Properties.Resources.resources
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.exe
+C:\Users\ragej\source\repos\FriendFile\FriendFile\obj\Debug\FriendFile.pdb
