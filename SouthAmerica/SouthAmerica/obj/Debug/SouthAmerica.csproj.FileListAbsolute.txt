@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\bin\Debug\SouthAmerica.exe.config
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\bin\Debug\SouthAmerica.exe
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\bin\Debug\SouthAmerica.pdb
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.Form1.resources
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.Properties.Resources.resources
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.exe
+C:\Users\ragej\source\repos\SouthAmerica\SouthAmerica\obj\Debug\SouthAmerica.pdb
