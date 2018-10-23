@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\ragej\source\repos\CoinToss\CoinToss\bin\Debug\CoinToss.exe
+C:\Users\ragej\source\repos\CoinToss\CoinToss\bin\Debug\CoinToss.pdb
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.pdb
+C:\Users\ragej\source\repos\CoinToss\CoinToss\obj\Debug\CoinToss.CoinToss.resources
