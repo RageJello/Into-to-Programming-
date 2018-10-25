@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.Form1.resources
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.Properties.Resources.resources
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\bin\Debug\CupsToOunces.exe.config
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\bin\Debug\CupsToOunces.exe
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\bin\Debug\CupsToOunces.pdb
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.exe
+C:\Users\ragej\source\repos\CupsToOunces\CupsToOunces\obj\Debug\CupsToOunces.pdb
