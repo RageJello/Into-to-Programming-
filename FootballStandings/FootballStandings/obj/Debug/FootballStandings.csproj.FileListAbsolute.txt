@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\bin\Debug\FootballStandings.exe.config
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\bin\Debug\FootballStandings.exe
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\bin\Debug\FootballStandings.pdb
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.football.resources
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.Properties.Resources.resources
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.exe
+C:\Users\ragej\source\repos\FootballStandings\FootballStandings\obj\Debug\FootballStandings.pdb
