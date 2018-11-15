@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\bin\Debug\CellPhoneTest.exe.config
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\bin\Debug\CellPhoneTest.exe
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\bin\Debug\CellPhoneTest.pdb
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.Form1.resources
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.Properties.Resources.resources
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.exe
+C:\Users\ragej\source\repos\CellPhoneTest\CellPhoneTest\obj\Debug\CellPhoneTest.pdb
