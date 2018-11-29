@@ -1,0 +1,10 @@
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\bin\Debug\TwelveDaysOfChristmas.exe.config
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\bin\Debug\TwelveDaysOfChristmas.exe
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\bin\Debug\TwelveDaysOfChristmas.pdb
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.csprojAssemblyReference.cache
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.Form1.resources
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.Properties.Resources.resources
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.csproj.GenerateResource.cache
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.csproj.CoreCompileInputs.cache
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.exe
+C:\Users\ragej\source\repos\TwelveDaysOfChristmas\TwelveDaysOfChristmas\obj\Debug\TwelveDaysOfChristmas.pdb
