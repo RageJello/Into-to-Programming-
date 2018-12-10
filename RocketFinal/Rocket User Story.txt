@@ -1,0 +1,6 @@
+USER STORY:
+	As a CS-111 student I would like to create a final project that meets the criteria for an A+:
+
+		USER STORY:
+
+			As a rocket enthusiast I would like to be able to select from a list of US rockets developed from 2000 onwards and see the Rocket's name, Manufacturer, Status, and the date it was last launched. 
